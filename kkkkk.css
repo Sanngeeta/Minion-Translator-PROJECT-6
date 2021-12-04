@@ -1,0 +1,40 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  
+  input{
+    padding: 2rem;
+    margin: 3rem;
+    width: 60%;
+    border-bottom: 0in;
+    border-color: aqua;
+    
+    
+  
+  }
+  
+  
+  h1{
+    font-size: 40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+  }
+  
+  .navigetation{
+    margin: 1rem;
+    padding: 3rem;
+    border-radius: 25px;
+    background-color: blueviolet;
+  }
+  
+  
+  
+  
+  .App{
+    background-color: gainsboro;
+  
+  }
+  
+  

@@ -1,0 +1,166 @@
+
+:root{
+    --primary-coloer:#FBBF24;
+    --off-white: #9CA3AF;
+    --dark-gray:#6B7280;
+}
+
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 2px;
+
+}
+
+
+
+
+textarea{
+    width: 70%;
+    height: 20vh;
+    display: block;
+    margin: 0rem;
+    padding: 1rem;
+    font-size: x-large;
+    margin: auto;
+    border: solid;
+}
+
+
+#output{
+    /* margin: 0; */
+    border: 1px solid black;
+    height: 20vh;
+    width: 70%;
+    padding: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+    border: solid;
+    font-size: xx-large;
+
+
+    
+} 
+
+
+
+#btn-translate{
+    font-size: xx-large;
+    font-weight: bold;
+    height: 40px;
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 20px;
+    background-color:var(--primary-coloer);
+    color: black;
+
+}
+
+
+
+.txt{
+    margin-left: 14%;
+    font-size: xx-large;
+    font-weight: bold;
+
+}
+
+
+
+
+/* spece ke liye use hota hai */
+hr{
+    margin: 3rem 1rem;
+
+}
+
+/* spaces */
+.margin.md{
+    margin: 2rem
+}
+
+
+
+/* navigation */
+
+.navigation{
+    background-color: var(--primary-coloer);
+    color: black;
+    padding: 4rem;
+    border-bottom-left-radius: 4rem  ;
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+
+}
+
+.navigation .nav-brand{
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+
+.navigation .nav-pills{
+    text-align: right;
+    
+}
+
+
+.hero{
+    padding: 2rem;
+    padding-top: 2rem;
+}
+.hero .hero-img{
+    max-width: 400px;
+    display: block;
+    margin: auto; 
+}
+
+.hero .hero-heading{
+    text-align: center;
+    font-size: xx-large;
+    color: var(--dark-gray);
+    padding: var(--dark-gray);
+}
+
+.hero .hero-heading .heading-inverted{
+    color: var(--primary-coloer);
+}
+
+
+
+/* section background color */
+.ow{
+    background-color: var(--off-white);
+}
+
+
+
+
+
+.container-center{
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+/* footers */
+.footer{
+    background-color: var(--primary-coloer);
+    padding: 2rem 3rem;
+    text-align: center;
+    color: black;
+    border-top-right-radius: 3rem;
+}
+
+.footer .footer-header{
+    font-weight: bold;
+    font-size: xx-large;
+}
+
